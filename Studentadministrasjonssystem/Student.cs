@@ -20,8 +20,6 @@ namespace Studentadministrasjonssystem
             Alder = alder;
             Studieprogram = studieprogram;
             StudieID = studieID;
-
-            
         }
         public void SkrivUtInfo()
         {
